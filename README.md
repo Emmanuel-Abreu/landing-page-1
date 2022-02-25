@@ -1,6 +1,6 @@
 # landing-page-1
 1st landing page, odin-project
 
-![landing_page_img_1.img](images/lp_1.jpg)
-![landing_page_img_1.img](images/lp_2.jpg)
-![landing_page_img_1.img](images/lp_3.jpg)
+![landing_page_img_1.img](https://github.com/Emmanuel-Abreu/landing-page-1/blob/main/landing-page-1/images/lp_1.JPG)
+![landing_page_img_1.img](https://github.com/Emmanuel-Abreu/landing-page-1/blob/main/landing-page-1/images/lp_2.JPG)
+![landing_page_img_1.img](https://github.com/Emmanuel-Abreu/landing-page-1/blob/main/landing-page-1/images/lp_3.JPG)
